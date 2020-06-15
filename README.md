@@ -20,3 +20,4 @@ The image processing techniques performed in a sequence as followed<br/>
 <b>8.Add color map<br/></b>
 <b>9.Save the segmented image<br/></b>
 
+![GUI interface](https://user-images.githubusercontent.com/27898184/84681701-f79fa980-af4d-11ea-976c-d6f382baeab6.PNG)
