@@ -2,8 +2,10 @@
 
 Computer vision has played an important role in medical imaging.
 
-The current application was designed to perform image processing technqiues to segment out the tumor from 2D MRI images.
-It would help doctor to learn the details about tumor in preopeartive surgery phase.
+The current application was designed to perform image processing techniques to segment out the tumor from 2D MRI images. 
+It would help the doctor to learn the details about tumors in the preoperative surgery phase.
+
+The following application is a python-based GUI-interface. The GUI is designed using Pyqt5, while on the backend OpenCV was used to perform image processing functionalities.
 
 Following application is a python-based GUI-interface.The GUI is designed using <b>Pyqt5</b>,while on the backend <b>OpenCV</b> was used to perform
 image processing functionalites.
