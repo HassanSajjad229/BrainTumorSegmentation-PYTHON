@@ -1,28 +1,16 @@
-# BrainTumorSegmentation-PYTHON
+In the field of medical imaging, computer vision has emerged as a transformative force, revolutionizing the interpretation of diagnostic data. One such application uses image processing techniques to precisely segment tumors from 2D MRI scans. This technology is powered by a Python-based graphical user interface (GUI) created with PyQt5 and OpenCV.
 
-Computer vision has played an important role in medical imaging.
+The image processing sequence involves several steps:
+1. **Selective Insights:** Selecting the image for segmentation.
+2. **Bilateral Refinement:** Applying a bilateral filter to preserve details and suppress noise.
+3. **Median Transformation:** Applying a median filter to smooth the image while preserving important structures.
+4. **Gaussian Symphony:** Applying a Gaussian filter to blend and elevate the image's contours.
+5. **Thresholded Precision:** Applying thresholding to demarcate the image's essence.
+6. **Dilation and Morphology:** Applying dilation and morphological operations for deeper comprehension.
+7. **Color Mapping Elegance:** Adding a color map to create a vivid image.
+8. **Preserving the Epiphany:** Saving the segmented image.
 
-The current application was designed to perform image processing techniques to segment out the tumor from 2D MRI images. 
-It would help the doctor to learn the details about tumors in the preoperative surgery phase.
-
-The following application is a python-based GUI-interface. The GUI is designed using Pyqt5, while on the backend OpenCV was used to perform image processing functionalities.
-
-Following application is a python-based GUI-interface.The GUI is designed using <b>Pyqt5</b>,while on the backend <b>OpenCV</b> was used to perform
-image processing functionalites.
-
-The image processing techniques performed in a sequence as followed<br/>
-<br/>
-<b>1.Select the image desired to perform segmentation <br/></b>
-<b>2.Apply bilateral filter<br/></b>
-<b>3.Apply median filter<br/></b>
-<b>4.Apply gaussian filter<br/></b>
-<b>5.Peform thresholding<br/></b>
-<b>6.Dilation<br/></b>
-<b>7.Perform morphological operations.<br/></b>
-<b>8.Add color map<br/></b>
-<b>9.Save the segmented image<br/></b>
-
-![GUI interface](https://user-images.githubusercontent.com/27898184/84681701-f79fa980-af4d-11ea-976c-d6f382baeab6.PNG)
+Imagine a magical blend of AI and computer vision that transforms medical care. This innovative tool, where technology and human expertise unite, is reshaping how we see patient well-being. It's like a stage where digital magic unfolds, promising to change medical imaging forever. From surgery rooms to doctor's offices, this could be the change we've been waiting for.
 
 Youtube link is 
 https://www.youtube.com/watch?v=VU10xgxZa04
