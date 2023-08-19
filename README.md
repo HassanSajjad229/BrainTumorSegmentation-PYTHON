@@ -12,5 +12,5 @@ The image processing sequence involves several steps:
 
 Imagine a magical blend of AI and computer vision that transforms medical care. This innovative tool, where technology and human expertise unite, is reshaping how we see patient well-being. It's like a stage where digital magic unfolds, promising to change medical imaging forever. From surgery rooms to doctor's offices, this could be the change we've been waiting for.
 
-Youtube link is 
+Youtube demo link is 
 https://www.youtube.com/watch?v=VU10xgxZa04
