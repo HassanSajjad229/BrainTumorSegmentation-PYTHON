@@ -14,5 +14,3 @@ Imagine a magical blend of AI and computer vision that transforms medical care. 
 
 ![GUI interface](https://user-images.githubusercontent.com/27898184/84681701-f79fa980-af4d-11ea-976c-d6f382baeab6.PNG)
 
-Youtube demo link is 
-https://www.youtube.com/watch?v=VU10xgxZa04
